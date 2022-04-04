@@ -3,7 +3,7 @@ var myGlobalVariable = 10;
 
 function function1() {
  myLocalVariable = 5;
-
+ 
 }
 
 //write code above this line

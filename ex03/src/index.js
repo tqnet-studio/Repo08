@@ -6,6 +6,7 @@ function localScope() {
 
 //only change code above this line
 localScope();
+
 if (typeof myVariable != "undefined"){
     console.log('outside localScope' , myVariable)
 } else {
